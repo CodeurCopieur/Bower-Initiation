@@ -1,0 +1,21 @@
+{
+  "name": "Bower-Initiation",
+  "homepage": "https://github.com/codwerk/Bower-Initiation",
+  "authors": [
+    "codwerk <louis_widdy@live.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "AppBundle/Ressources/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
