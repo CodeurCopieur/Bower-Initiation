@@ -10,7 +10,7 @@ const paths = {
         }
     }
 
-    // supprimer le dossier assets
+// supprimer le dossier assets
 const clean = () => del([paths.css.dest]);
 
 function css() {
