@@ -2,3 +2,4 @@ AppBundle/Ressources/bower_components/bootstrap/
 node_modules/
 package-lock.json
 node_modules
+AppBundle/Ressources/bower_components/Font-Awesome/
