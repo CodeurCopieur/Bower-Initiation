@@ -7,4 +7,4 @@ Dans ce projet, je vais également faire appel a l'automatiseur de tâches Gulp.
 #Installation
 =============
 
-Installez les dépendances <br/> <a href="https://getbootstrap.com/" target="_blank">bootstrap</a><br/> <a href="https://www.npmjs.com/package/gulp-sass" target="_blank">gulp-sass</a>
+Installez les dépendances <br/> <a href="https://github.com/twbs/bootstrap" target="_blank">bootstrap</a><br/> <a href="https://github.com/dlmanning/gulp-sass" target="_blank">gulp-sass</a>
