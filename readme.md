@@ -1,8 +1,8 @@
 #Bower - Iniation
 =========================
 ````
-Pour ce projet, j'utilise Bower le gestionnaire de dépendance. Il permet de gérer les librairies CSS par exemple le framework CSS bootstrap.
-Dans ce projet, je vais également faire appel a l'automatiseur de tâches Gulp. Grâce au plugins gulp-sass je peux compiler les fichiers sass en fichiers css.  
+Pour ce projet, j'utilise Bower le gestionnaire de dépendance.<br/>  Il permet de gérer les librairies CSS par exemple le framework CSS bootstrap.<br/> 
+Dans ce projet, je vais également faire appel a l'automatiseur de tâches Gulp.<br/>  Grâce au plugins gulp-sass je peux compiler les fichiers sass en fichiers css.  
 ````
 #Installation
 =============
