@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/codwerk/Bower-Initiation#readme",
   "devDependencies": {
+    "del": "^4.1.0",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2"
