@@ -8,11 +8,11 @@ Dans ce projet, je vais également faire appel a l'automatiseur de tâches Gulp.
 =============
 
 Bower :<br/>
-1.Boostrap
-2.Font-Awesome
+1. Boostrap
+2. Font-Awesome
 
 Gulp :<br/>
-1.del
-2.gulp-concat
-3.gulp-sass
+1. del
+2. gulp-concat
+3. gulp-sass
 
