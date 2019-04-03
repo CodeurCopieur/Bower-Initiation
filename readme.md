@@ -1,10 +1,10 @@
-#Bower - Iniation
+# Bower - Iniation
 =========================
 
 Pour ce projet, j'utilise Bower le gestionnaire de dépendance.<br/>  Il permet de gérer les librairies CSS par exemple le framework CSS bootstrap.<br/> 
 Dans ce projet, je vais également faire appel a l'automatiseur de tâches Gulp.
 
-##Les dépendances
+## Les dépendances
 ================
 
 Bower :<br/>
@@ -16,7 +16,7 @@ Gulp :<br/>
 2. gulp-concat
 3. gulp-sass
 
-##RUN
+## RUN
 ================
 
 ````
