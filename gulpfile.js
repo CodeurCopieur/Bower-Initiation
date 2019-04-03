@@ -5,11 +5,11 @@ const gulp = require('gulp');
 
 const paths = {
         css: {
-            src : ['AppBundle/Ressources/bower_components/bootstrap/scss/bootstrap.scss', 'src/scss/index.scss'],
+            src : ['AppBundle/Ressources/bower_components/bootstrap/scss/bootstrap.scss', 'AppBundle/Ressources/bower_components/bootstrap/scss/bootstrap-grid.scss', 'AppBundle/Ressources/bower_components/bootstrap/scss/bootstrap-reboot.scss', 'src/scss/index.scss'],
             dest : 'build/assets/css'
         },
        fonts: {
-            src : ['AppBundle/Ressources/bower_components/Font-Awesome/scss/*.scss'],
+            src : ['AppBundle/Ressources/bower_components/Font-Awesome/css/*.min.scss'],
             dest : 'build/assets/fonts'
         }
     }
