@@ -9,7 +9,7 @@ const paths = {
             dest : 'build/assets/css'
         },
        fonts: {
-            src : ['AppBundle/Ressources/bower_components/Font-Awesome/css/*.min.scss'],
+            src : ['AppBundle/Ressources/bower_components/Font-Awesome/css/*.min.css'],
             dest : 'build/assets/fonts'
         }
     }
@@ -29,7 +29,7 @@ function css() {
 
 function fonts() {
     return gulp.src(paths.fonts.src)
-    .pipe(sass())
+    //.pipe(sass())
     .pipe(concat('all.css'))
     .pipe(gulp.dest(paths.fonts.dest))
 }
