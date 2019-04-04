@@ -19,4 +19,14 @@ bower i
 5. gulp-concat
 6. gulp-sass
 
+## Run
+
+$ gulp build 
+
+Ceci surveillera vos fichiers sass, les compilera et exécutera votre serveur de développement à l' adresse http://localhost:8001/.
+
+$ gulp fonts
+
+lance la tâche fonts pour copier les polices d'écriture de Font Awesome
+
 
