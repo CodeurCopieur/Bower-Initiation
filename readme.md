@@ -29,7 +29,7 @@ Ceci surveillera vos fichiers sass, les compilera et exécutera votre serveur de
 ````
 $ gulp fonts
 `````
-
+Lance la tâche fonts pour copier les polices d'écriture de Font Awesome
 
 
 
