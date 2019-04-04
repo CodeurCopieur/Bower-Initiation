@@ -21,6 +21,7 @@ bower i
 
 ## Run
 
+````
 $ gulp build 
 
 Ceci surveillera vos fichiers sass, les compilera et exécutera votre serveur de développement à l' adresse http://localhost:8001/.
@@ -28,5 +29,6 @@ Ceci surveillera vos fichiers sass, les compilera et exécutera votre serveur de
 $ gulp fonts
 
 lance la tâche fonts pour copier les polices d'écriture de Font Awesome
+````
 
 
