@@ -53,7 +53,7 @@ function fonts() {
     .pipe(gulp.dest(paths.fonts.dest))
 }
 
-const build = gulp.series(clean, gulp.parallel(css));
+const build = gulp.series(clean, gulp.parallel(css, watch));
 
 exports.clean = clean;
 exports.css = css;
